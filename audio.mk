@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/themes/audio/ui/audio_initiate.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/audio_initiate.ogg \
     vendor/themes/audio/ui/camera_click.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_click.ogg \
     vendor/themes/audio/ui/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg \
+    vendor/themes/audio/ui/BatteryPlugged.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/BatteryPlugged.ogg \
+    vendor/themes/audio/ui/BatteryPlugged_48k.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/BatteryPlugged_48k.ogg \
     vendor/themes/audio/ui/ChargingStarted.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/ChargingStarted.ogg \
     vendor/themes/audio/ui/Dock.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Dock.ogg \
     vendor/themes/audio/ui/Effect_Tick.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/Effect_Tick.ogg \
