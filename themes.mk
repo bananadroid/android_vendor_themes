@@ -21,3 +21,6 @@ include vendor/themes/primary.mk
 # Stub
 PRODUCT_PACKAGES += \
     BananaThemesStub
+
+# Switch themes
+include vendor/themes/switchstyle.mk
