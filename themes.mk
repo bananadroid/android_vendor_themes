@@ -9,3 +9,7 @@ include vendor/themes/accents.mk
 
 # Fonts
 include vendor/themes/fonts.mk
+
+# Stub
+PRODUCT_PACKAGES += \
+    BananaThemesStub
