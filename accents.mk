@@ -15,9 +15,11 @@ PRODUCT_PACKAGES += \
     AccentColorLightGreenOverlay \
     AccentColorLimeOverlay \
     AccentColorOceanOverlay \
+    AccentColorOnePlusRedOverlay \
     AccentColorOrangeOverlay \
     AccentColorOrchidOverlay \
     AccentColorPinkOverlay \
+    AccentColorPixelBlueOverlay \
     AccentColorPurpleOverlay \
     AccentColorRedOverlay \
     AccentColorSpaceOverlay \
