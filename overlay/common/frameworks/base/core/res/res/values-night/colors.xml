@@ -18,6 +18,8 @@
   -->
 <resources>
 
+    <color name="du_themes_qs_inactive_color">#FF4E4F53</color>
+
     <!-- The background color of a notification card. -->
     <color name="notification_material_background_color">#ff212121</color>
 
