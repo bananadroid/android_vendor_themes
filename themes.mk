@@ -7,6 +7,9 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/overlay/common
 # Accents
 include vendor/themes/accents.mk
 
+# Audio
+include vendor/themes/audio.mk
+
 # Fonts
 include vendor/themes/fonts.mk
 
