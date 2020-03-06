@@ -10,6 +10,9 @@ include vendor/themes/fonts.mk
 # Navbar
 include vendor/themes/navbar.mk
 
+# Primary
+include vendor/themes/primary.mk
+
 # Stub
 PRODUCT_PACKAGES += \
     BananaThemesStub
