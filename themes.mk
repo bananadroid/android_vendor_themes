@@ -8,6 +8,9 @@ $(call inherit-product, vendor/extras/audio/audio.mk)
 # ColorBucket
 include vendor/extras/colorbucket.mk
 
+# Icon Shapes
+include vendor/extras/iconshapes.mk
+
 # Navbar
 include vendor/extras/navbar.mk
 
