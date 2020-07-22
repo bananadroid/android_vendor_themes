@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     FontKaiOverlay \
     FontRubikRubikOverlay \
     FontSamOverlay \
-    FontVictorOverlay
+    FontVictorOverlay \
+    FontCaviarDreamsSourceOverlay
 
 # Karla family
 PRODUCT_PACKAGES += \
@@ -84,4 +85,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/Ubuntu-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-BoldItalic.ttf \
     $(LOCAL_PATH)/prebuilt/Ubuntu-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Medium.ttf \
     $(LOCAL_PATH)/prebuilt/Ubuntu-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-MediumItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf
+    $(LOCAL_PATH)/prebuilt/Ubuntu-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu-Regular.ttf \
+    $(LOCAL_PATH)/prebuilt/CaviarDreams.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams.ttf \
+    $(LOCAL_PATH)/prebuilt/CaviarDreams_Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_Bold.ttf \
+    $(LOCAL_PATH)/prebuilt/CaviarDreams_BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_BoldItalic.ttf \
+    $(LOCAL_PATH)/prebuilt/CaviarDreams_Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/CaviarDreams_Italic.ttf
