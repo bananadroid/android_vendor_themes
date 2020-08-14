@@ -1,5 +1,18 @@
 # Accents
 PRODUCT_PACKAGES += \
+    AccentColorAmethystOverlay \
+    AccentColorAquamarineOverlay \
+    AccentColorBlackOverlay \
+    AccentColorCarbonOverlay \
+    AccentColorCinnamonOverlay \
+    AccentColorGreenOverlay \
+    AccentColorOceanOverlay \
+    AccentColorOrchidOverlay \
+    AccentColorPaletteOverlay \
+    AccentColorPurpleOverlay \
+    AccentColorSandOverlay \
+    AccentColorSpaceOverlay \
+    AccentColorTangerineOverlay \
     Amber \
     Blue \
     BlueGrey \
