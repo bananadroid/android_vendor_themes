@@ -7,6 +7,7 @@ $(call inherit-product, vendor/extras/audio/audio.mk)
 
 # Fonts
 include vendor/extras/fonts.mk
+$(call inherit-product, vendor/extras/fonts/fonts.mk)
 
 # Navbar
 include vendor/extras/navbar.mk
