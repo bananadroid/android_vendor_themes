@@ -28,7 +28,7 @@
         <item name="forceDarkAllowed">false</item>
 
         <!-- QS panel background -->
-        <item name="colorBackgroundFloating">@*android:color/material_grey_900</item>
+        <item name="android:colorBackgroundFloating">@color/notification_material_background_color</item>
 
         <!-- volume background -->
         <item name="panelColorBackground">@*android:color/background_floating_material_dark</item>
