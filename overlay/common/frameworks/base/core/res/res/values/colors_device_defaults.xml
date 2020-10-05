@@ -15,6 +15,9 @@
      overlaying new theme colors. -->
 <resources>
 
+    <color name="accent_device_default_light">#007CFA</color>
+    <color name="accent_device_default_dark">#0086FA</color>
+
     <color name="background_device_default_light">#ffffffff</color>
     <color name="background_device_default_dark">#ff212121</color>
     <color name="background_floating_device_default_dark">#ff313235</color>
