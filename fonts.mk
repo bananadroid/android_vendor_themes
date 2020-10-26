@@ -15,7 +15,29 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontTitilliumWebSourceOverlay \
-    FontUbuntuSourceOverlay
+    FontUbuntuSourceOverlay \
+    FontKaiOverlay \
+    FontRubikRubikOverlay \
+    FontSamOverlay \
+    FontVictorOverlay
+
+# Karla family
+PRODUCT_PACKAGES += \
+    Karla-Regular.ttf
+
+# Fraunces family
+PRODUCT_PACKAGES += \
+    Fraunces-SemiBold.ttf
+
+# BigShouldersText family
+PRODUCT_PACKAGES += \
+    BigShouldersText-Bold.ttf \
+    BigShouldersText-ExtraBold.ttf
+
+# Barlow family
+PRODUCT_PACKAGES += \
+    Barlow-Bold.ttf \
+    Barlow-Medium.ttf
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
