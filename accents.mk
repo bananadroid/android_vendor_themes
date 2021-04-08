@@ -1,35 +1,25 @@
 # Accents
 PRODUCT_PACKAGES += \
-    AccentColorAmethystOverlay \
-    AccentColorAquamarineOverlay \
-    AccentColorBlackOverlay \
-    AccentColorCarbonOverlay \
+    AccentColorAmberOverlay \
+    AccentColorBlueOverlay \
+    AccentColorBlueGreyOverlay \
+    AccentColorBrownOverlay \
     AccentColorCinnamonOverlay \
+    AccentColorCyanOverlay \
+    AccentColorDeepOrangeOverlay \
+    AccentColorDeepPurpleOverlay \
     AccentColorGreenOverlay \
+    AccentColorGreyOverlay \
+    AccentColorIndigoOverlay \
+    AccentColorLightBlueOverlay \
+    AccentColorLightGreenOverlay \
+    AccentColorLimeOverlay \
     AccentColorOceanOverlay \
+    AccentColorOrangeOverlay \
     AccentColorOrchidOverlay \
-    AccentColorPaletteOverlay \
+    AccentColorPinkOverlay \
     AccentColorPurpleOverlay \
-    AccentColorSandOverlay \
+    AccentColorRedOverlay \
     AccentColorSpaceOverlay \
-    AccentColorTangerineOverlay \
-    Amber \
-    Blue \
-    BlueGrey \
-    Brown \
-    Cyan \
-    DeepOrange \
-    DeepPurple \
-    Green \
-    Grey \
-    Indigo \
-    LightBlue \
-    LightGreen \
-    Lime \
-    Netflix \
-    Orange \
-    Pink \
-    Purple \
-    Red \
-    Teal \
-    Yellow
+    AccentColorTealOverlay \
+    AccentColorYellowOverlay
