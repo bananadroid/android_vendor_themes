@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     SwitchMD2 \
     SwitchOnePlus \
     SwitchNarrow \
-    SwitchStockish
+    SwitchStockish \
+    SwitchFluid
