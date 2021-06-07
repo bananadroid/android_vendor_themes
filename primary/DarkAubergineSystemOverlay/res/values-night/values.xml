@@ -13,14 +13,11 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
-
-  NOTE: You might also want to edit: packages/SystemUI/res/values-night/colors.xml
   -->
+
 <resources>
-
-    <!-- The background color of a notification card. -->
-    <color name="notification_material_background_color">#FF002b36</color>
-    <color name="search_panel_background">@*android:color/material_grey_800</color>
-    <color name="theme_generic_semi_transparent_color">#EA002b36</color>
-
+    <style name="Theme.DeviceDefault.QuickSettings" parent="android:Theme.DeviceDefault">
+        <item name="android:colorBackgroundFloating">#FF2C001E</item>
+        <item name="android:panelColorBackground">#FF2C001E</item>
+    </style>
 </resources>
