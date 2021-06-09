@@ -1,14 +1,14 @@
 # Accents
-include vendor/themes/accents.mk
+include vendor/extras/accents.mk
 
 # Audio
-include vendor/themes/audio.mk
+include vendor/extras/audio.mk
 
 # Fonts
-include vendor/themes/fonts.mk
+include vendor/extras/fonts.mk
 
 # Navbar
-include vendor/themes/navbar.mk
+include vendor/extras/navbar.mk
 
 # Offline charger
 PRODUCT_PACKAGES += \
@@ -16,11 +16,11 @@ PRODUCT_PACKAGES += \
     product_charger_res_images
 
 # Primary
-include vendor/themes/primary.mk
+include vendor/extras/primary.mk
 
 # Stub
 PRODUCT_PACKAGES += \
     BananaThemesStub
 
 # Switch themes
-include vendor/themes/switchstyle.mk
+include vendor/extras/switchstyle.mk

@@ -1,4 +1,4 @@
-LOCAL_PATH := vendor/themes/fonts
+LOCAL_PATH := vendor/extras/fonts
 
 # Fonts
 PRODUCT_PACKAGES += \

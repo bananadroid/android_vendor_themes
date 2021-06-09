@@ -12,4 +12,4 @@ PRODUCT_PACKAGES += \
     DarkAubergineSystemOverlay \
     DarkAubergineSystemUIOverlay
 
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/themes/primary
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/extras/primary
