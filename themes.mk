@@ -16,11 +16,6 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
-# Overlays
-DEVICE_PACKAGE_OVERLAYS += vendor/extras/overlay/common
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/extras/overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/extras/overlay/dictionaries
-
 # Primary
 include vendor/extras/primary.mk
 
