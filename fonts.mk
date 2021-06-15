@@ -7,6 +7,7 @@ PRODUCT_PACKAGES += \
     FontArvoLatoOverlay \
     FontCagliostroSourceOverlay \
     FontFiraSansSourceOverlay \
+    FontGoogleSansSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
@@ -50,26 +51,12 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/prebuilt/FiraSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-MediumItalic.ttf \
     $(LOCAL_PATH)/prebuilt/FiraSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Regular.ttf \
     $(LOCAL_PATH)/prebuilt/Gobold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Gobold.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-Black.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Black.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-BlackItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-BlackItalic.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Bold.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-BoldItalic.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Italic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Light.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-LightItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-LightItalic.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     $(LOCAL_PATH)/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-Thin.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Thin.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSans-ThinItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-ThinItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-Bold.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-BoldItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-Italic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-Light.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-LightItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-LightItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-Medium.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-MediumItalic.ttf \
-    $(LOCAL_PATH)/prebuilt/GoogleSansCondensed-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansCondensed-Regular.ttf \
     $(LOCAL_PATH)/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
     $(LOCAL_PATH)/prebuilt/Mexcellent-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     $(LOCAL_PATH)/prebuilt/Neoneon-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
