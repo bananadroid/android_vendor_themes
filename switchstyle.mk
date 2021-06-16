@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
-    Stockish
+    Stockish \
+    Fluid
