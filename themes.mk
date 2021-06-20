@@ -17,9 +17,6 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
-# Primary
-include vendor/extras/primary.mk
-
 # Stub
 PRODUCT_PACKAGES += \
     BananaThemesStub
