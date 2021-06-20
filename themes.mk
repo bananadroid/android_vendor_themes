@@ -5,6 +5,9 @@ include vendor/extras/accents.mk
 include vendor/extras/audio.mk
 $(call inherit-product, vendor/extras/audio/audio.mk)
 
+# ColorBucket
+include vendor/extras/colorbucket.mk
+
 # Navbar
 include vendor/extras/navbar.mk
 
