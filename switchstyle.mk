@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     SwitchOnePlus \
     SwitchNarrow \
     SwitchStockish \
-    SwitchFluid
+    SwitchFluid \
+    SwitchAndroidS
