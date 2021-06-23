@@ -1,9 +1,9 @@
 # Switch themes
 PRODUCT_PACKAGES += \
-    MD2Switch \
-    OnePlusSwitch \
+    SwitchContained \
     SwitchTelegram \
-    Contained \
-    Retro \
-    Narrow \
-    Stockish
+    SwitchRetro \
+    SwitchMD2 \
+    SwitchOnePlus \
+    SwitchNarrow \
+    SwitchStockish
