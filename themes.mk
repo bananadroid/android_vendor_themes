@@ -19,6 +19,9 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
+# QS tile styles
+include vendor/extras/qstiles.mk
+
 # StatusBar and Wifi Style
 include vendor/extras/icons.mk
 
