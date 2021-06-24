@@ -2,4 +2,5 @@
 PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
     IconShapeCylindricalOverlay \
+    IconShapeLeafOverlay \
     IconShapeStretchedOverlay
