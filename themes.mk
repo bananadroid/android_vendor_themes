@@ -1,6 +1,3 @@
-# Accents
-include vendor/extras/accents.mk
-
 # Audio
 include vendor/extras/audio.mk
 $(call inherit-product, vendor/extras/audio/audio.mk)
