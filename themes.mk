@@ -19,6 +19,9 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
+# Potato volume panels
+include packages/apps/Plugins/plugins.mk
+
 # QS tile styles
 include vendor/extras/qstiles.mk
 
