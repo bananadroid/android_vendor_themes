@@ -1,9 +1,8 @@
 # QS Tile Styles
 PRODUCT_PACKAGES += \
-    QStileCircleTrim \
     QStileDefault \
-    QStileDualToneCircle \
-    QStileSquircleTrim \
+    QStileDualTone \
+    QStileDualToneTrim \
     QStileAttemptMountain \
     QStileDottedCircle \
     QStileNinja \
@@ -15,4 +14,5 @@ PRODUCT_PACKAGES += \
     QStileDividedCircle \
     QStileNeonLight \
     QStileTriangles \
+    QStileTrim \
     QStileCircleOutline
