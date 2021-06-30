@@ -15,4 +15,8 @@ PRODUCT_PACKAGES += \
     QStileNeonLight \
     QStileTriangles \
     QStileTrim \
-    QStileCircleOutline
+    QStileCircleOutline \
+    QStileIconAccent \
+    QStileMonoGradient \
+    QStileGradient \
+    QStilePureAccent
