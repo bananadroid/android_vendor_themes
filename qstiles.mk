@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
     QStileAttemptMountain \
     QStileDottedCircle \
     QStileNinja \
-    QStilePokesign \
     QStileWavey \
     QStileCookie \
     QStileInkDrop \
@@ -15,6 +14,5 @@ PRODUCT_PACKAGES += \
     QStileCosmos \
     QStileDividedCircle \
     QStileNeonLight \
-    QStileOxygen \
     QStileTriangles \
     QStileCircleOutline
