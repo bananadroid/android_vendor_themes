@@ -1,5 +1,4 @@
 # Audio
-include vendor/extras/audio.mk
 $(call inherit-product, vendor/extras/audio/audio.mk)
 
 # ColorBucket
